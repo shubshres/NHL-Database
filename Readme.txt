@@ -1,11 +1,3 @@
-Names:
-Mohammed Ahmed - 1001655176
-Hoang Ho - 1001654608
-Shubhayu Shrestha - 1001724804
-
-CSE 3330-004
-Project #1
-
 Tools Used:
 To create ER Diagram - LucidChart
 To write SQL statements and queries - SQLite3, replit.com
